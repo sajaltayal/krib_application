@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="66" viewBox="0 0 64 66">
+  <defs>
+    <clipPath id="clip-Back_button">
+      <rect width="64" height="66"/>
+    </clipPath>
+  </defs>
+  <g id="Back_button" data-name="Back button" clip-path="url(#clip-Back_button)">
+    <path id="back_button-2" data-name="back button" d="M14.174,1.212a1,1,0,0,1,1.652,0L28.934,20.437A1,1,0,0,1,28.108,22H1.892a1,1,0,0,1-.826-1.563Z" transform="translate(21 48) rotate(-90)" fill="#707070"/>
+  </g>
+</svg>

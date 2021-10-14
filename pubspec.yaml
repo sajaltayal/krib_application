@@ -19,10 +19,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cloud_firestore: ^0.9.7+2
+  
   image_picker: ^0.6.0+2
-  firebase_storage: ^2.1.0+1
   firebase_auth: ^0.8.3
+  firebase_core: ^0.3.0
+  firebase_storage: ^2.1.0+1
+  cloud_firestore: ^0.9.7+2
   google_sign_in: ^4.0.1+1
   geolocator: 5.0.1
   uuid: ^2.0.0
@@ -31,14 +33,58 @@ dependencies:
   cupertino_icons: ^0.1.2
   path_provider: ^0.5.0+1
   firebase_messaging: ^4.0.0+1
+  get:
   timeago: 2.0.17
-  cached_network_image:
-  flutter_svg:
-
+  cached_network_image: 
+  flutter_svg: 
+  adobe_xd: 
+  flutter_statusbarcolor: 
+  flutter_linkify: 
+  url_launcher: 
+  pin_entry_text_field: 
+  dotted_border: 
+  draggable_floating_button:
+    # git: 
+    #   url: https://github.com/sajaltayal/draggable_floating_button.git
+  modal_bottom_sheet: 
+  sizer: 
+  responsive_widgets: 
+  bordered_text: 
+  jiffy: 
+  sliding_up_panel:
+  fluttertoast:
+  draggable_widget: 
+  auto_size_text:
+  responsive_flutter: 
+  carousel_slider: 
+  flutter_rating_bar:
+  camera: ^0.5.8+1
+  #camera: 
+  video_player:
+  path:
+  blurrycontainer:
+  swipedetector:
+  gradient_widgets:
+  image_cropper:
+  image_crop:
+  icon_font_generator:
+  blur:
+  shimmer:
+  expandable_text:
+  blinking_text:
+  page_transition: 
+  
+  
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons:
 
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/Icon/appIcon.png"
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
@@ -46,12 +92,28 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   fonts:
-    - family: Signatra
+    - family: Poppins
       fonts:
-        - asset: assets/fonts/Signatra.ttf
+        - asset: assets/fonts/Poppins.ttf
+    
+    - family: destain
+      fonts:
+        - asset: assets/fonts/destain.ttf
+
+    - family: Helvetica
+      fonts:
+        - asset: assets/fonts/Helvetica.ttf
+
+    - family: Lovelo-LineLight
+      fonts:
+        - asset: assets/fonts/Lovelo-LineLight.ttf
+
+    - family: Helvetica_Neue
+      fonts:
+        - asset: assets/fonts/Helvetica_Neue_Bold.ttf
+
+        
   assets:
-    - assets/images/google_signin_button.png
-    - assets/images/upload.svg
-    - assets/images/search.svg
-    - assets/images/activity_feed.svg
-    - assets/images/no_content.svg
+    - assets/images/
+    - assets/fonts/
+    - assets/Icon/

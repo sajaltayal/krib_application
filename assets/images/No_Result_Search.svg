@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="242" viewBox="0 0 256 242">
+  <defs>
+    <clipPath id="clip-Sorry_no_result_found">
+      <rect width="256" height="242"/>
+    </clipPath>
+  </defs>
+  <g id="Sorry_no_result_found" data-name="Sorry no result found" clip-path="url(#clip-Sorry_no_result_found)">
+    <g id="Sorry_no_result_found-2" data-name="Sorry no result found" transform="translate(-72 -156.323)">
+      <g id="Group_358" data-name="Group 358" transform="translate(-213.307 198.468) rotate(-45)">
+        <g id="Group_359" data-name="Group 359" transform="translate(0 7)">
+          <line id="Line_5" data-name="Line 5" y2="59.937" transform="translate(217.558 337.697)" fill="none" stroke="#b3b1b1" stroke-width="2"/>
+          <line id="Line_6" data-name="Line 6" x2="21.795" transform="translate(217.558 397.634)" fill="none" stroke="#b3b1b1" stroke-width="2"/>
+          <line id="Line_7" data-name="Line 7" y1="59.937" transform="translate(239.353 337.697)" fill="none" stroke="#b3b1b1" stroke-width="2"/>
+        </g>
+        <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(186.767 264.8)" fill="none" stroke="#b3b1b1" stroke-width="6">
+          <circle cx="41.5" cy="41.5" r="41.5" stroke="none"/>
+          <circle cx="41.5" cy="41.5" r="38.5" fill="none"/>
+        </g>
+        <line id="Line_143" data-name="Line 143" x2="17" transform="translate(217.629 284.143) rotate(45)" fill="none" stroke="#b3b1b1" stroke-linecap="round" stroke-width="2"/>
+        <line id="Line_144" data-name="Line 144" x2="17" transform="translate(238.843 305.356) rotate(45)" fill="none" stroke="#b3b1b1" stroke-linecap="round" stroke-width="2"/>
+        <line id="Line_145" data-name="Line 145" x2="17" transform="translate(214.094 308.892) rotate(45)" fill="none" stroke="#b3b1b1" stroke-linecap="round" stroke-width="2"/>
+        <circle id="Ellipse_122" data-name="Ellipse 122" cx="5" cy="5" r="5" transform="translate(286.219 309.599) rotate(45)" fill="#b3b1b1"/>
+        <circle id="Ellipse_123" data-name="Ellipse 123" cx="5" cy="5" r="5" transform="translate(296.825 320.205) rotate(45)" fill="#b3b1b1"/>
+        <circle id="Ellipse_124" data-name="Ellipse 124" cx="5" cy="5" r="5" transform="translate(307.432 330.812) rotate(45)" fill="#b3b1b1"/>
+      </g>
+      <text id="Sorry_no_result_found-3" data-name="Sorry, no result found" transform="translate(92 384)" fill="#b3b1b1" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500" letter-spacing="0.01em"><tspan x="0" y="0">Sorry, no result found</tspan></text>
+    </g>
+  </g>
+</svg>

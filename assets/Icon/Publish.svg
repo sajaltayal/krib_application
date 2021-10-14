@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <clipPath id="clip-Publish">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="Publish" clip-path="url(#clip-Publish)">
+    <g id="Group_320" data-name="Group 320" transform="translate(-207 -370)">
+      <g id="Ellipse_97" data-name="Ellipse 97" transform="translate(245 405.434)" fill="none" stroke="#b3b1b1" stroke-width="3">
+        <circle cx="61.928" cy="61.928" r="61.928" stroke="none"/>
+        <circle cx="61.928" cy="61.928" r="60.428" fill="none"/>
+      </g>
+      <text id="_" data-name="+" transform="translate(268.645 509)" fill="#b3b1b1" font-size="110" font-family="Poppins-Regular, Poppins" letter-spacing="0.01em"><tspan x="8" y="-3">+</tspan></text>
+    </g>
+  </g>
+</svg>

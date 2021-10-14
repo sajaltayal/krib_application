@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="147" height="106" viewBox="0 0 147 106">
+  <defs>
+    <clipPath id="clip-No_comments">
+      <rect width="147" height="106"/>
+    </clipPath>
+  </defs>
+  <g id="No_comments" data-name="No comments" clip-path="url(#clip-No_comments)">
+    <g id="no_comments-2" data-name="no comments" transform="translate(-114.5 -583.3)">
+      <text id="No_comments-3" data-name="No comments" transform="translate(124 666)" fill="#f1ece7" font-size="18" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="7.5" y="0">No comments</tspan></text>
+      <g id="Group_350" data-name="Group 350" transform="translate(-187.568 541.774)">
+        <path id="Path_258" data-name="Path 258" d="M643.457,108.414l12.621-12.583L643.457,83.249l3.848-3.835,16.469,16.418L647.3,112.249l-3.848-3.835Z" transform="translate(-247.362 -10.023)" fill="#e6e6e6" style="isolation: isolate"/>
+        <rect id="Rectangle_219" data-name="Rectangle 219" width="5.131" height="5.131" transform="translate(360.054 80.761)" fill="#e6e6e6" style="isolation: isolate"/>
+        <rect id="Rectangle_220" data-name="Rectangle 220" width="5.131" height="5.131" transform="translate(380.678 80.761)" fill="#e6e6e6" style="isolation: isolate"/>
+        <rect id="Rectangle_221" data-name="Rectangle 221" width="5.131" height="5.131" transform="translate(370.366 80.761)" fill="#e6e6e6" style="isolation: isolate"/>
+        <path id="Path_259" data-name="Path 259" d="M353.1,107.785,340.468,95.2,353.089,82.62l-3.848-3.835L332.785,95.2l16.469,16.418Z" transform="translate(0 -9.522)" fill="#e6e6e6" style="isolation: isolate"/>
+        <path id="Path_260" data-name="Path 260" d="M643.457,96.455l12.621-12.583L643.457,71.29l3.848-3.835,16.469,16.418L647.3,100.29l-3.848-3.835Z" transform="translate(-247.362 -0.501)" fill="#00203e"/>
+        <path id="Path_261" data-name="Path 261" d="M537.595,365.006h5.13v-5.131h-5.13Zm25.755-5.131h-5.13v5.131h5.13Zm-15.443,5.131h5.13v-5.131h-5.13Z" transform="translate(-177.541 -280.736)" fill="#00203e"/>
+        <path id="Path_262" data-name="Path 262" d="M353.1,95.826,340.468,83.244l12.621-12.583-3.848-3.835L332.785,83.244l16.469,16.418Z" fill="#00203e"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <clipPath id="clip-Rank">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="Rank" clip-path="url(#clip-Rank)">
+    <g id="Group_163" data-name="Group 163" transform="translate(-11.722 -1.164)">
+      <text id="_2" data-name="2" transform="translate(50.722 97.164)" fill="#c3bfbe" font-size="43" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700" letter-spacing="0.005em"><tspan x="0" y="0">2</tspan></text>
+      <g id="Rectangle_83" data-name="Rectangle 83" transform="translate(83.722 87.164)" fill="none" stroke="#b3b1b1" stroke-width="2">
+        <rect width="60" height="73" stroke="none"/>
+        <rect x="1" y="1" width="58" height="71" fill="none"/>
+      </g>
+      <g id="Rectangle_84" data-name="Rectangle 84" transform="translate(142.722 108.164)" fill="none" stroke="#b3b1b1" stroke-width="2">
+        <rect width="49" height="44" stroke="none"/>
+        <rect x="1" y="1" width="47" height="42" fill="none"/>
+      </g>
+      <g id="Rectangle_85" data-name="Rectangle 85" transform="translate(31.722 99.164)" fill="none" stroke="#b3b1b1" stroke-width="2">
+        <rect width="53" height="53" stroke="none"/>
+        <rect x="1" y="1" width="51" height="51" fill="none"/>
+      </g>
+      <text id="_1" data-name="1" transform="translate(103.722 85.164)" fill="#f7c84e" font-size="43" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700" letter-spacing="0.005em"><tspan x="0" y="0">1</tspan></text>
+      <text id="_3" data-name="3" transform="translate(155.722 105.164)" fill="#b59287" font-size="43" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700" letter-spacing="0.005em"><tspan x="0" y="0">3</tspan></text>
+    </g>
+  </g>
+</svg>

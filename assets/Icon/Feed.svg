@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <clipPath id="clip-Feed">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="Feed" clip-path="url(#clip-Feed)">
+    <g id="Feed_logo" data-name="Feed logo" transform="translate(48 30)">
+      <g id="Group_7" data-name="Group 7" transform="translate(0 0)">
+        <g id="Group_8" data-name="Group 8">
+          <path id="Path_4" data-name="Path 4" d="M231.151,260l54.4-54.535L334.916,260v83.7H231.151Z" transform="translate(-231.151 -205.46)" fill="none" stroke="#b3b1b1" stroke-width="6"/>
+          <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(37.08 103.008)" fill="#b3b1b1" stroke="#b3b1b1" stroke-width="0.5">
+            <path d="M7,0H24a7,7,0,0,1,7,7V36a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V7A7,7,0,0,1,7,0Z" stroke="none"/>
+            <path d="M7,.25H24A6.75,6.75,0,0,1,30.75,7V35.5a.25.25,0,0,1-.25.25H.5a.25.25,0,0,1-.25-.25V7A6.75,6.75,0,0,1,7,.25Z" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

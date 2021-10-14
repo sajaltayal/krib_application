@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53" height="53" viewBox="0 0 53 53">
+  <defs>
+    <clipPath id="clip-Verified">
+      <rect width="53" height="53"/>
+    </clipPath>
+  </defs>
+  <g id="Verified" clip-path="url(#clip-Verified)">
+    <g id="check_circle_black_24dp" transform="translate(8.802 8.801)">
+      <path id="Path_236" data-name="Path 236" d="M0,0H35.4V35.4H0Z" fill="none"/>
+      <path id="Path_237" data-name="Path 237" d="M16.749,2A14.749,14.749,0,1,0,31.5,16.749,14.754,14.754,0,0,0,16.749,2Zm0,26.548a11.8,11.8,0,1,1,11.8-11.8A11.815,11.815,0,0,1,16.749,28.548Zm6.77-18.318-9.72,9.72-3.82-3.805L7.9,18.224l5.9,5.9,11.8-11.8Z" transform="translate(0.95 0.95)" fill="#1fcc33"/>
+    </g>
+  </g>
+</svg>

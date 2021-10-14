@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "151011218153",
+    "firebase_url": "https://krib2downgrade-default-rtdb.firebaseio.com",
+    "project_id": "krib2downgrade",
+    "storage_bucket": "krib2downgrade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151011218153:android:3b815956c15ed791261678",
+        "android_client_info": {
+          "package_name": "com.codeartistry.fluttershare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151011218153-q02j2fcjub3hs7oqh2h5q09uf6nfcfq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codeartistry.fluttershare",
+            "certificate_hash": "0e3e67ede2ce0fbdaa7fccd3973dd366100ded46"
+          }
+        },
+        {
+          "client_id": "151011218153-qlqrq6t3q9mjl8us496btspq6qb75t6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEw2B9eY0fR1oYuGhhLYXr2EOS_WmoWd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151011218153-qlqrq6t3q9mjl8us496btspq6qb75t6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

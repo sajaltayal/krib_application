@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53" height="49" viewBox="0 0 53 49">
+  <defs>
+    <clipPath id="clip-Awaitnig_Verfication">
+      <rect width="53" height="49"/>
+    </clipPath>
+  </defs>
+  <g id="Awaitnig_Verfication" data-name="Awaitnig Verfication" clip-path="url(#clip-Awaitnig_Verfication)">
+    <g id="check_circle_black_24dp" transform="translate(8.801 6.801)">
+      <path id="Path_236" data-name="Path 236" d="M0,0H35.4V35.4H0Z" fill="none"/>
+      <path id="Path_237" data-name="Path 237" d="M16.749,2A14.749,14.749,0,1,0,31.5,16.749,14.754,14.754,0,0,0,16.749,2Zm0,26.548a11.8,11.8,0,1,1,11.8-11.8A11.815,11.815,0,0,1,16.749,28.548Z" transform="translate(1.001 1)" fill="#efef14"/>
+      <line id="Line_55" data-name="Line 55" x2="15" transform="translate(10.501 17.5)" fill="none" stroke="#efef37" stroke-linecap="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

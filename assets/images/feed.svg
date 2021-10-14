@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="139.857" height="45" viewBox="0 0 139.857 45">
+  <g id="Feed_with_logo" data-name="Feed with logo" transform="translate(-98 -293)">
+    <text id="Feed_" data-name="Feed " transform="translate(98 330)" fill="#f5f5f5" font-size="38" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">Feed </tspan></text>
+    <g id="Feed_logo" data-name="Feed logo" transform="translate(216.748 302.714)">
+      <g id="Group_7" data-name="Group 7" transform="translate(0 0)">
+        <g id="Group_8" data-name="Group 8" transform="translate(0 0)">
+          <path id="Path_4" data-name="Path 4" d="M231.151,216.028l10.541-10.568,9.567,10.568v16.219H231.151Z" transform="translate(-231.151 -205.46)" fill="none" stroke="#b3b1b1" stroke-width="2"/>
+          <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(7.252 19.286)" fill="#b3b1b1" stroke="#b3b1b1" stroke-width="0.5">
+            <path d="M2,0H4A2,2,0,0,1,6,2V7A0,0,0,0,1,6,7H0A0,0,0,0,1,0,7V2A2,2,0,0,1,2,0Z" stroke="none"/>
+            <path d="M2,.25H4A1.75,1.75,0,0,1,5.75,2V6.5a.25.25,0,0,1-.25.25H.5A.25.25,0,0,1,.25,6.5V2A1.75,1.75,0,0,1,2,.25Z" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
